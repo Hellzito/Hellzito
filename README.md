@@ -21,3 +21,6 @@ Lastly but not least, I recently participated in a hackathon organized by EBAC, 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hellzito&hide_progress=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
+### Contato
+
+[<img src='https://img.shields.io/badge/LinkedIn-007785?style=for-the-badges&logo=linkedin&locoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/wagner-de-araujo-7b2854118/)
