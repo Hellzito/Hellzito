@@ -13,7 +13,7 @@ Lastly but not least, I recently participated in a hackathon organized by EBAC, 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Hellzito&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Hellzito/github-readme-stats#gh-dark-mode-only)
 
 ### Projeto
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hellzito&repo=TikTok-Clone&theme=dark#gh-dark-mode-only)](https://github.com/Hellzito/TikTok-Clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hellzito&repo=TikTok-Clone&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hellzito&repo=InventarioV1.0&theme=dark#gh-dark-mode-only)](https://github.com/Hellzito/TikTok-Clone)
 
