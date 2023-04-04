@@ -10,16 +10,16 @@ Lastly but not least, I recently participated in a hackathon organized by EBAC, 
 
 ### Detalhes
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Hellzito&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Hellzito/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=WagDevX&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Hellzito/github-readme-stats#gh-dark-mode-only)
 
 ### Projeto
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hellzito&repo=TikTok-Clone&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WagDevX&repo=TikTok-Clone&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hellzito&repo=InventarioV1.0&theme=dark#gh-dark-mode-only)](https://github.com/Hellzito/TikTok-Clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WagDevX&repo=InventarioV1.0&theme=dark#gh-dark-mode-only)](https://github.com/Hellzito/TikTok-Clone)
 
 ### Linguagens
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hellzito&hide_progress=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WagDevX&hide_progress=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contato
 
