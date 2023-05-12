@@ -10,7 +10,7 @@ Lastly but not least, I recently participated in a hackathon organized by EBAC, 
 
 ### Detalhes
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=WagDevX&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Hellzito/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=WagDevX&show_icons=true&theme=dark#gh-dark-mode-only)]
 
 ### Projeto
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WagDevX&repo=TikTok-Clone&theme=dark#gh-dark-mode-only)]
