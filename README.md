@@ -17,7 +17,7 @@ Lastly but not least, I recently participated in a hackathon organized by EBAC, 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WagDevX&repo=InventarioV1.0&theme=dark#gh-dark-mode-only)](https://github.com/Hellzito/TikTok-Clone)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WagDevX&repo=kivy_venv&theme=dark#gh-dark-mode-only)](https://github.com/WagDevX/kivy_venv)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WagDevX&repo=InventarioV1.0&theme=dark#gh-dark-mode-only)](https://github.com/WagDevX/kivy_venv)
 
 ### Linguagens
 
