@@ -19,6 +19,8 @@ Lastly but not least, I recently participated in a hackathon organized by EBAC, 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WagDevX&repo=KivyAPP&theme=dark#gh-dark-mode-only)](https://github.com/WagDevX/KivyAPP)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WagDevX&repo=kivy_venv&theme=dark#gh-dark-mode-only)](https://github.com/WagDevX/kivy_venv)
+
 ### Linguagens
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WagDevX&theme=dark#gh-dark-mode-only)]
