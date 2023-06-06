@@ -13,9 +13,9 @@ I have been studying software programming for almost a year now. My first langua
 ### Projeto
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WagDevX&repo=meu-site-portfolio&theme=dark#gh-dark-mode-only)](https://github.com/WagDevX/meu-site-portfolio)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WagDevX&repo=TikTok-Clone&theme=dark#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WagDevX&repo=TikTok-Clone&theme=dark#gh-dark-mode-only)](https://github.com/Hellzito/TikTok-Clone)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WagDevX&repo=InventarioV1.0&theme=dark#gh-dark-mode-only)](https://github.com/Hellzito/TikTok-Clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WagDevX&repo=InventarioV1.0&theme=dark#gh-dark-mode-only)](https://github.com/Hellzito/InventarioV1.0)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WagDevX&repo=kivy_venv&theme=dark#gh-dark-mode-only)](https://github.com/WagDevX/kivy_venv)
 
