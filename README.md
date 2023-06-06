@@ -21,7 +21,7 @@ I have been studying software programming for almost a year now. My first langua
 
 ### Linguagens
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WagDevX&theme=dark#gh-dark-mode-only)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WagDevX&theme=dark#gh-dark-mode-only)
 
 ### Contato
 
