@@ -17,7 +17,7 @@ I have been studying software programming for almost a year now. My first langua
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WagDevX&repo=kivy_venv&theme=dark#gh-dark-mode-only)](https://github.com/WagDevX/kivy_venv)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WagDevX&repo=meu-site-portfolio&theme=dark#gh-dark-mode-only)](https://github.com/WagDevX/meu-site-portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WagDevX&repo=meu-site-portfoio&theme=dark#gh-dark-mode-only)](https://github.com/WagDevX/meu-site-portflio)
 
 ### Linguagens
 
